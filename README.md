@@ -2,6 +2,10 @@
 
 # Objective  -  
 
+Develop a Business Intelligence report to track and manage consumer complaints received by the Compliance Department at Bank of America. This report aids the team in monitoring complaint statuses and visualizing complaint trends, ensuring timely responses and minimizing overdue cases.  
+
+# Key Goals - 
+
 1. Calculate top-level KPIs by flagging complaints as "Open" or "Closed" and creating a PivotTable to count the complaints for each status.  
 2. Create a new PivotTable that shows the "Open" and "Closed" complaints by week, then visualize the trend using a stacked column chart.
 3. Add formatting and polish to the report by modifying the KPIs, chart, and timeline filter.
